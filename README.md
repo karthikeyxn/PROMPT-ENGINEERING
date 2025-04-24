@@ -131,7 +131,9 @@ Code-based Applications
 
 Another application of generative AI is in software development owing to its capacity to produce code without the need for manual coding. Developing code is possible through this quality not only for
 professionals but also for non-technical people.
+
 ![image](https://github.com/user-attachments/assets/760e22e5-9289-474c-aace-bdb876d9a349)
+
 
 Other Applications
 
